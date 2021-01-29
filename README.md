@@ -1,5 +1,4 @@
-# DeviceRegSCPTool
-Device Registration SCP Tool 
+# Device Registration SCP Tool
 
 DeviceRegSCPTol PowerShell script is automating resolving Device Registration Service Connection Point (SCP) creation and configuration issues while configuring Hybrid Azure Active Directory Joined devices. The script verifies all needed prerequisites to install SCP, installs the missing ones, then, it creates SCP.
 
